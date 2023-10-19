@@ -31,7 +31,7 @@ Join us as we venture into the digital wilderness, forging a path into the unkno
 
 {% embed url="https://lolbas-project.github.io/" %}
 
-<div data-full-width="true">
+<div data-full-width="false">
 
 <figure><img src=".gitbook/assets/a4f23670e1833f3fdb077ca70bbd5d66.jpg" alt=""><figcaption></figcaption></figure>
 
