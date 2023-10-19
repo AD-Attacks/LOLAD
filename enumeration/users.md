@@ -1,5 +1,7 @@
 ---
-description: How to enumerate users using net user command
+description: >-
+  How to enumerate users using net user command from Windows Command Processor
+  (CMD.exe)
 ---
 
 # Users

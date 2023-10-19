@@ -6,6 +6,8 @@
 
 * [File Transfer](ps-tips-and-tricks/file-transfer.md)
 * [Run Into Memory](ps-tips-and-tricks/run-into-memory.md)
+* [Task Scheduler](ps-tips-and-tricks/task-scheduler.md)
+* [Scheduled Service](ps-tips-and-tricks/scheduled-service.md)
 
 ## Enumeration
 
@@ -15,6 +17,15 @@
 * [Networking](enumeration/networking.md)
 * [Checking Defences](enumeration/checking-defences.md)
 
+## Extract Credentials
+
+* [SAM Credentials](extract-credentials/sam-credentials.md)
+* [NTDS](extract-credentials/ntds.md)
+
+## Checking Defenses
+
+* [Page 2](checking-defenses/page-2.md)
+
 ## Lateral Movement
 
 * [WinRM](lateral-movement/winrm.md)
@@ -22,12 +33,3 @@
 * [WMI](lateral-movement/wmi.md)
 * [PsExec](lateral-movement/psexec.md)
 * [SMB Relay](lateral-movement/smb-relay.md)
-
-## Checking Defenses
-
-* [Page 2](checking-defenses/page-2.md)
-
-## Extract Credentials
-
-* [SAM Credentials](extract-credentials/sam-credentials.md)
-* [NTDS](extract-credentials/ntds.md)
