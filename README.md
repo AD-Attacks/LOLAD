@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/Living Of The Land.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Living Of The Land Active Directory
 
 Embark on a journey into the heart of Active Directory, where every corner holds secrets waiting to be uncovered.
