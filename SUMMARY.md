@@ -15,7 +15,6 @@
 * [Groups](enumeration/groups.md)
 * [SysInfo](enumeration/sysinfo.md)
 * [Networking](enumeration/networking.md)
-* [Checking Defences](enumeration/checking-defences.md)
 
 ## Extract Credentials
 
@@ -24,7 +23,8 @@
 
 ## Checking Defenses
 
-* [Page 2](checking-defenses/page-2.md)
+* [Antivirus](checking-defenses/antivirus.md)
+* [Firewall](checking-defenses/firewall.md)
 
 ## Lateral Movement
 
