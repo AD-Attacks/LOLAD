@@ -9,15 +9,25 @@
 
 ## Enumeration
 
-* [Users & Groups](enumeration/users-and-groups.md)
+* [Users](enumeration/users.md)
+* [Groups](enumeration/groups.md)
 * [SysInfo](enumeration/sysinfo.md)
 * [Networking](enumeration/networking.md)
 * [Checking Defences](enumeration/checking-defences.md)
 
 ## Lateral Movement
 
-* [Page 1](lateral-movement/page-1.md)
+* [WinRM](lateral-movement/winrm.md)
+* [WinRS](lateral-movement/winrs.md)
+* [WMI](lateral-movement/wmi.md)
+* [PsExec](lateral-movement/psexec.md)
+* [SMB Relay](lateral-movement/smb-relay.md)
 
 ## Checking Defenses
 
 * [Page 2](checking-defenses/page-2.md)
+
+## Extract Credentials
+
+* [SAM Credentials](extract-credentials/sam-credentials.md)
+* [NTDS](extract-credentials/ntds.md)
