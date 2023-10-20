@@ -16,15 +16,22 @@
 * [SysInfo](enumeration/sysinfo.md)
 * [Networking](enumeration/networking.md)
 
-## Extract Credentials
+## Networking
 
-* [SAM Credentials](extract-credentials/sam-credentials.md)
-* [NTDS](extract-credentials/ntds.md)
+* [Layer 1](networking/layer-1.md)
+* [Layer 2](networking/layer-2.md)
+* [Layer 3](networking/layer-3.md)
+* [Layer 4](networking/layer-4.md)
 
 ## Checking Defenses
 
 * [Antivirus](checking-defenses/antivirus.md)
 * [Firewall](checking-defenses/firewall.md)
+
+## Extract Credentials
+
+* [SAM Credentials](extract-credentials/sam-credentials.md)
+* [NTDS](extract-credentials/ntds.md)
 
 ## Lateral Movement
 
