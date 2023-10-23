@@ -40,3 +40,7 @@
 * [WMI](lateral-movement/wmi.md)
 * [PsExec](lateral-movement/psexec.md)
 * [SMB Relay](lateral-movement/smb-relay.md)
+
+## Privilege Escalation
+
+* [Page 1](privilege-escalation/page-1.md)
