@@ -8,9 +8,11 @@
 * [Web Downloads](files-transfer/web-downloads.md)
 * [SMB Downloads](files-transfer/smb-downloads.md)
 * [FTP Downloads](files-transfer/ftp-downloads.md)
-* [Run Into Memory](files-transfer/run-into-memory.md)
-* [Downloads](files-transfer/downloads.md)
 * [File Encryption on Windows](files-transfer/file-encryption-on-windows.md)
+* [Downloads](files-transfer/downloads.md)
+* [Uploads](files-transfer/uploads.md)
+* [File Read](files-transfer/file-read.md)
+* [File Write](files-transfer/file-write.md)
 
 ## Enumeration
 
