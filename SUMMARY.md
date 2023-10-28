@@ -5,9 +5,13 @@
 ## PS Tips & Tricks
 
 * [File Transfer](ps-tips-and-tricks/file-transfer.md)
+* [Web Downloads](ps-tips-and-tricks/web-downloads.md)
+* [SMB Downloads](ps-tips-and-tricks/smb-downloads.md)
+* [FTP Downloads](ps-tips-and-tricks/ftp-downloads.md)
 * [Run Into Memory](ps-tips-and-tricks/run-into-memory.md)
 * [Task Scheduler](ps-tips-and-tricks/task-scheduler.md)
 * [Scheduled Service](ps-tips-and-tricks/scheduled-service.md)
+* [Downloads](ps-tips-and-tricks/downloads.md)
 
 ## Enumeration
 
