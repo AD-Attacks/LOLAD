@@ -31,8 +31,13 @@ Join us as we venture into the digital wilderness, forging a path into the unkno
 
 {% embed url="https://lolbas-project.github.io/" %}
 
+{% embed url="https://cli-ck.me/htb-pro-labs" %}
+
 <div data-full-width="false">
 
 <figure><img src=".gitbook/assets/a4f23670e1833f3fdb077ca70bbd5d66.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+* [LOLBAS Project for Windows Binaries](https://lolbas-project.github.io/)
+* [GTFOBins for Linux Binaries](https://gtfobins.github.io/)

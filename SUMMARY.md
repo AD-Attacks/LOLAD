@@ -2,16 +2,15 @@
 
 * [Living Of The Land Active Directory](README.md)
 
-## PS Tips & Tricks
+## Files Transfer
 
-* [File Transfer](ps-tips-and-tricks/file-transfer.md)
-* [Web Downloads](ps-tips-and-tricks/web-downloads.md)
-* [SMB Downloads](ps-tips-and-tricks/smb-downloads.md)
-* [FTP Downloads](ps-tips-and-tricks/ftp-downloads.md)
-* [Run Into Memory](ps-tips-and-tricks/run-into-memory.md)
-* [Task Scheduler](ps-tips-and-tricks/task-scheduler.md)
-* [Scheduled Service](ps-tips-and-tricks/scheduled-service.md)
-* [Downloads](ps-tips-and-tricks/downloads.md)
+* [File Transfer](files-transfer/file-transfer.md)
+* [Web Downloads](files-transfer/web-downloads.md)
+* [SMB Downloads](files-transfer/smb-downloads.md)
+* [FTP Downloads](files-transfer/ftp-downloads.md)
+* [Run Into Memory](files-transfer/run-into-memory.md)
+* [Downloads](files-transfer/downloads.md)
+* [File Encryption on Windows](files-transfer/file-encryption-on-windows.md)
 
 ## Enumeration
 
@@ -19,6 +18,12 @@
 * [Groups](enumeration/groups.md)
 * [SysInfo](enumeration/sysinfo.md)
 * [Networking](enumeration/networking.md)
+
+## Privilege Escalation
+
+* [Page 1](privilege-escalation/page-1.md)
+* [Scheduled Service](privilege-escalation/scheduled-service.md)
+* [Task Scheduler](privilege-escalation/task-scheduler.md)
 
 ## Networking
 
@@ -40,11 +45,16 @@
 ## Lateral Movement
 
 * [WinRM](lateral-movement/winrm.md)
+* [RDP](lateral-movement/rdp.md)
 * [WinRS](lateral-movement/winrs.md)
 * [WMI](lateral-movement/wmi.md)
 * [PsExec](lateral-movement/psexec.md)
 * [SMB Relay](lateral-movement/smb-relay.md)
 
-## Privilege Escalation
+## Command Execution
 
-* [Page 1](privilege-escalation/page-1.md)
+* [Page 2](command-execution/page-2.md)
+
+## Bypasses
+
+* [Page 3](bypasses/page-3.md)
