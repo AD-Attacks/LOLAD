@@ -14,6 +14,11 @@
 * [File Read](files-transfer/file-read.md)
 * [File Write](files-transfer/file-write.md)
 
+## Bypasses
+
+* [Detection](bypasses/detection.md)
+* [Evading Detection](bypasses/evading-detection.md)
+
 ## Enumeration
 
 * [Users](enumeration/users.md)
@@ -56,7 +61,3 @@
 ## Command Execution
 
 * [Page 2](command-execution/page-2.md)
-
-## Bypasses
-
-* [Page 3](bypasses/page-3.md)
