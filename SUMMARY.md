@@ -18,6 +18,7 @@
 
 * [Detection](bypasses/detection.md)
 * [Evading Detection](bypasses/evading-detection.md)
+* [🔥 AMSI Bypass](bypasses/amsi-bypass.md)
 
 ## Enumeration
 
@@ -27,11 +28,11 @@
 * [Networking](enumeration/networking.md)
 * [Named Pipes](enumeration/named-pipes.md)
 
-## Privilege Escalation
+## Local Privilege Escalation
 
-* [Page 1](privilege-escalation/page-1.md)
-* [Scheduled Service](privilege-escalation/scheduled-service.md)
-* [Task Scheduler](privilege-escalation/task-scheduler.md)
+* [Page 1](local-privilege-escalation/page-1.md)
+* [Scheduled Service](local-privilege-escalation/scheduled-service.md)
+* [Task Scheduler](local-privilege-escalation/task-scheduler.md)
 
 ## Networking
 
@@ -62,3 +63,7 @@
 ## Command Execution
 
 * [Page 2](command-execution/page-2.md)
+
+## Kerberos Attacks
+
+* [Kerberoasting](kerberos-attacks/kerberoasting.md)
