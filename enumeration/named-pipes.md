@@ -1,0 +1,5 @@
+# Named Pipes
+
+```
+ls \\.\pipe\
+```

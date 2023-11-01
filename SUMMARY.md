@@ -25,6 +25,7 @@
 * [Groups](enumeration/groups.md)
 * [SysInfo](enumeration/sysinfo.md)
 * [Networking](enumeration/networking.md)
+* [Named Pipes](enumeration/named-pipes.md)
 
 ## Privilege Escalation
 
