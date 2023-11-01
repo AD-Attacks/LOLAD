@@ -67,3 +67,12 @@
 ## Kerberos Attacks
 
 * [Kerberoasting](kerberos-attacks/kerberoasting.md)
+
+## Persistence
+
+* [Startup folder](persistence/startup-folder.md)
+
+## Credentials
+
+* [Registry](credentials/registry.md)
+* [Shadow Copy](credentials/shadow-copy.md)
